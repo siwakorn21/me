@@ -45,6 +45,22 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(images/pcsd.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="#"></a>Pet&Caretaker Matchmaking Appication</h3>
+											<h3>ReactJS & NodeJS</h3>
+											{/* <span></span> */}
+											<p className="icon">
+												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 						{/* <div className="row">
 							<div className="col-md-12 animate-box">
