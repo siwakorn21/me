@@ -49,7 +49,10 @@ University. Aiming to use my knowledge of Data Analytics and Software Developmen
                 </span>
                 <div className="desc">
                     <h3>Data Science & Data Engineering</h3>
-                    <p>Knowledge of Machine Learning and AI. Experienced with Spark, Hadoop, Kafka, PowerBI etc.</p>
+                    <p>Knowledge of Machine Learning and AI. Experienced with Spark, Hadoop, PowerBI , NumPy, and Pandas.
+                        <br/>
+                        Interest in Time series analysis, NLP and Algorithmic Trading..
+                    </p>
                 </div>
                 </div>
             </div>
