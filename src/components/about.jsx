@@ -38,7 +38,7 @@ University. Aiming to use my knowledge of Data Analytics and Software Developmen
                 </span>
                 <div className="desc">
                     <h3>Full Stack Developer</h3>
-                    <p>Experienced with frontend and backend stacks such as ReactJS, PHP, NodeJS, GoLang, Solidity and .NET </p>
+                    <p>Experienced with frontend and backend stacks such as ReactJS, NodeJS, Go, Solidity</p>
                 </div>
                 </div>
             </div>
